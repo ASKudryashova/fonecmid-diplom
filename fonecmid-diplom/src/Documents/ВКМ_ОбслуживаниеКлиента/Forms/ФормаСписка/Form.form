@@ -398,9 +398,7 @@
       <name>Ссылка</name>
       <id>37</id>
       <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
+      <userVisible/>
       <dataPath xsi:type="form:DataPath">
         <segments>Список.Ссылка</segments>
       </dataPath>
