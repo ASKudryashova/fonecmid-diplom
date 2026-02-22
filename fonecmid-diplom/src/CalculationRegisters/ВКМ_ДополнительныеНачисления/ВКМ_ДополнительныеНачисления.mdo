@@ -35,18 +35,17 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
-  <attributes uuid="8bee08ab-3ac2-43d6-b1de-b86460dd887f">
-    <name>ПроцентПермии</name>
+  <attributes uuid="f7f7c157-997f-4750-b0cf-1f40366f5ce2">
+    <name>ПроцентОтРабот</name>
     <synonym>
       <key>ru</key>
-      <value>Процент пермии</value>
+      <value>Процент от работ</value>
     </synonym>
     <type>
-      <types>Number</types>
-      <numberQualifiers>
-        <precision>15</precision>
-        <scale>2</scale>
-      </numberQualifiers>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
