@@ -24,4 +24,7 @@
   <content>AccumulationRegister.ВКМ_УчетОтпусков</content>
   <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</content>
   <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Report.ВКМ_РасчетыССотрудниками</content>
 </mdclass:Subsystem>
